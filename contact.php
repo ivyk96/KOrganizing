@@ -2,8 +2,8 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Contact</title>
     <?php require_once('requires/head.html') ?>
+    <title>Kate Organizing - Contact</title>
 </head>
 
 <body>
@@ -21,10 +21,6 @@
             
             <div class="col-md-8">
                 <img class="img-responsive" src="img/logo.png">
-            
-            </div>
-            <div class="col-md-3">
-                <img class="img-responsive" src="img/profielfoto.png">
             </div>
         </div>
         <!-- Features Section -->
@@ -43,10 +39,13 @@
         <div class="row"> 
             <div class="col-md-12">
                 <p>
-                    Cathy Hoekstra heeft in 1985 haar HBO diploma aan de Haagse Hogeschool voor docent lichamelijke opvoeding behaald. Zij is sindsdien onder andere werkzaam 
-                    in de fitnessbranche als instructeur. Sinds 1986 heeft ze bij diverse bedrijven ervaring opgedaan in het opzetten van administraties. Ook heeft ze met veel 
-                    plezier een paar jaar voor een trainingsbureau gewerkt. In 2000 maakte ze kennis met Professional Organizing. Ze heeft de opleiding tot professional 
-                    organizer gedaan en werd lid van de NPO (later NBPO) In datzelfde jaar is ze begonnen met haar werkzaamheden als trainer en coach onder de naam Kate Organizing.
+                    In 1985 heb ik mijn HBO diploma aan de Haagse Hogeschool voor docent Lichamelijke Opvoeding behaald. Sindsdien ben ik onder andere werkzaam 
+                    in de fitnessbranche als instructeur en heb ik bij diverse bedrijven ervaring opgedaan in het opzetten van administraties. Ook heb ik met veel 
+                    plezier een paar jaar voor een trainingsbureau gewerkt. In 2000 maakte ik kennis met Professional Organizing. Ik heb de opleiding tot professional 
+                    organizer gedaan en werd lid van de NPO (later NBPO) In datzelfde jaar ben ik begonnen met mijn werkzaamheden als trainer en coach onder de 
+                    naam Kate Organizing. Aangezien ik het belangrijk vind om mezelf te blijven verbeteren doe ik regelmatig aan bijscholing. Zo heb ik in 2014 
+                    heb ik een aantal modules van de School voor organizing gevolgd en in 2015 ga ik er nog een paar doen. Ook zit ik met een aantal collega's in een 
+                    intervisiegroep. Zo houden we elkaar scherp in het uitoefenen van ons vak.
                 </p>
                 <br>
                 <p><b>Voor meer informatie en/of het maken van een afspraak kunt u contact met me opnemen:</b></p>
@@ -98,8 +97,8 @@
     </div>
     <!-- /.container -->
 
-    <!-- jQuery Version 1.11.0 -->
-    <script src="js/jquery-1.11.0.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>

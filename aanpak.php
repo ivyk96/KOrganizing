@@ -2,8 +2,8 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Aanpak</title>
     <?php require_once('requires/head.html') ?>
+    <title>Kate Organizing - Aanpak</title>
 </head>
 
 <body>
@@ -23,9 +23,6 @@
                 <img class="img-responsive" src="img/logo.png">
             
             </div>
-            <div class="col-md-3">
-                <img class="img-responsive" src="img/profielfoto.png">
-            </div>
         </div>
         <!-- Features Section -->
         <div class="row">
@@ -36,7 +33,7 @@
             <br>
 
             <div class="col-lg-12">
-                <h4 class="page-header3">EEN PARKTIJKGERICHTE, PERSOONLIJKE AANPAK</h4>
+                <h4 class="page-header3">EEN PRAKTIJKGERICHTE, PERSOONLIJKE AANPAK</h4>
             </div>
         </div>
         <hr>
@@ -45,26 +42,20 @@
                 <p>
                     <b>Meerdere coachgesprekken</b>
                     <br>
-                    Werkgewoonten verander je niet in één keer. We maken een aantal (3-4) afspraken: “al doende leert men” en “vreemde ogen dwingen”.
+                    Werkgewoonten verander je niet in één keer. We maken een aantal afspraken (2-4) naar behoefte.
                 </p>
                 <br>
-                <p>
-                    <b>Intake</b>
-                    <br>
-                    Met de cursist houden we een intakegesprek om de persoonlijke manier van werken, wensen en verwachtingen te inventariseren.
-                </p>
-                <br>
-                <p>
-                    <b>Opdoen van theoretische kennis in de training Effectief en Efficiënt werken</b>
-                </p>
-                <br>
-                <p><b>Werkplekcoaching (toepassing in de praktijk)</b></p>
+                <p><b>Werkplekcoaching</b></p>
                 <ul>
+                    <li class="geenbolletjeli"><b>Intake:</b> Met de cursist houden we een intakegesprek om de persoonlijke manier van werken, wensen en verwachtingen te inventariseren.</li>
+                    <br>
                     <li class="geenbolletjeli"><b>Werkplekorganisatie:</b> Er wordt geïnventariseerd wat op de werkplek aanwezig is. Uitgaand van de manier van werken van de cursist wordt gezocht naar de meest optimale indeling en wordt onder begeleiding structuur aangebracht.</li>
                     <br>
                     <li class="geenbolletjeli"><b>Computerorganisatie:</b> Veel informatie is digitaal opgeslagen. Daarom worden ook de e-mail en de documenten in de computer gereorganiseerd.</li>
                     <br>
                     <li class="geenbolletjeli"><b>Timemanagement:</b> Aan de cursist wordt gevraagd een overzicht te maken van het takenpakket. Aan de hand van de actielijst en het takenoverzicht van de cursist wordt een structuur ontworpen. De cursist leert beter plannen en krijgt een eenvoudig systeem van onthouden aangereikt. Daardoor verdwijnen stapels, kan er doelmatiger gewerkt worden en wordt niets meer vergeten. De achterstand die in het verleden is ontstaan wordt weggewerkt. Digitale agenda’s worden optimaal gebruikt.</li>
+                    <br>
+                    <li class="geenbolletjeli"><b>Telefonische Nazorg: </b> Als het niet nodig is om nog op locatie te werken maar ondersteuning op afstand nog wel wenselijk.</li>
                 </ul>
             </div>
         </div>
@@ -103,8 +94,8 @@
     </div>
     <!-- /.container -->
 
-    <!-- jQuery Version 1.11.0 -->
-    <script src="js/jquery-1.11.0.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>

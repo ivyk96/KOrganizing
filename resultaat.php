@@ -23,9 +23,6 @@
                 <img class="img-responsive" src="img/logo.png">
             
             </div>
-            <div class="col-md-3">
-                <img class="img-responsive" src="img/profielfoto.png">
-            </div>
         </div>
         <!-- Features Section -->
         <div class="row">
@@ -99,8 +96,8 @@
     </div>
     <!-- /.container -->
 
-    <!-- jQuery Version 1.11.0 -->
-    <script src="js/jquery-1.11.0.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>

@@ -2,8 +2,9 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Home</title>
     <?php require_once('requires/head.html') ?>
+	<title>Kate Organizing - Home</title>
+    
 </head>
 
 <body>
@@ -49,7 +50,7 @@
                 </p>
                 <p><b>Tijd om het roer om te gooien, om echt kwaliTIJD voor jezelf te krijgen!</b></p>
                 <p>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u brengt ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
+                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u breng ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
                     het plannen van de agenda en met het indelen van tijd en taken. De training Effectief en Efficiënt werken is gebaseerd op o.a. de principes van "Getting 
                     things done" en Steven Covey. De training vindt plaats daar waar het nodig is: op de werkplek zelf. De persoonlijke aanpak leidt tot grote resultaten.
                 </p>
@@ -74,7 +75,7 @@
             </div>
             <div class="col-md-3 portfolio-item">
                 <h4 class="contact-header-blauw">referenties</h4>
-                <p>klik hier voor referenties</p>
+                <p>klik <a href="referenties.php">hier</a> voor referenties</p>
             </div>
             <div class="col-md-3 portfolio-item">
                 <h4 class="contact-header-oranje">NBPO</h4>
@@ -90,8 +91,8 @@
     </div>
     <!-- /.container -->
 
-    <!-- jQuery Version 1.11.0 -->
-    <script src="js/jquery-1.11.0.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
