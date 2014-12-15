@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Home</title>
+	<title>Kate Organizing - Aanpak</title>
     <?php require_once('requires/head.html') ?>
 </head>
 
@@ -30,29 +30,42 @@
         <!-- Features Section -->
         <div class="row">
             <div class="text-center">
-                <h3 class="page-header2">prioriTIJD aan kwaliTIJD</h3>
+                <h3 class="page-header2">van WETEN naar DOEN</h3>
             </div>
 
             <br>
 
             <div class="col-lg-12">
-                <h4 class="page-header3">ORGANISEREN KUN JE LEREN</h4>
+                <h4 class="page-header3">EEN PARKTIJKGERICHTE, PERSOONLIJKE AANPAK</h4>
             </div>
         </div>
         <hr>
         <div class="row"> 
             <div class="col-md-12">
                 <p>
-                    Dagelijks een stroom aan mailverkeer, stapels post, een overvolle agenda en altijd tijd tekort?
-                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak maar hebben nooit geleerd hoe ze hun werk efficiënt en effectief organiseren.
-                    Er is niet altijd sprake van chaos! Er zijn mensen die alles prima in orde hebben, maar geen (goed) systeem hebben aangebracht. Ook dat kan tot problemen leiden.
+                    <b>Meerdere coachgesprekken</b>
+                    <br>
+                    Werkgewoonten verander je niet in één keer. We maken een aantal (3-4) afspraken: “al doende leert men” en “vreemde ogen dwingen”.
                 </p>
-                <p><b>Tijd om het roer om te gooien, om echt kwaliTIJD voor jezelf te krijgen!</b></p>
+                <br>
                 <p>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u brengt ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
-                    het plannen van de agenda en met het indelen van tijd en taken. De training Effectief en Efficiënt werken is gebaseerd op o.a. de principes van "Getting 
-                    things done" en Steven Covey. De training vindt plaats daar waar het nodig is: op de werkplek zelf. De persoonlijke aanpak leidt tot grote resultaten.
+                    <b>Intake</b>
+                    <br>
+                    Met de cursist houden we een intakegesprek om de persoonlijke manier van werken, wensen en verwachtingen te inventariseren.
                 </p>
+                <br>
+                <p>
+                    <b>Opdoen van theoretische kennis in de training Effectief en Efficiënt werken</b>
+                </p>
+                <br>
+                <p><b>Werkplekcoaching (toepassing in de praktijk)</b></p>
+                <ul>
+                    <li class="geenbolletjeli"><b>Werkplekorganisatie:</b> Er wordt geïnventariseerd wat op de werkplek aanwezig is. Uitgaand van de manier van werken van de cursist wordt gezocht naar de meest optimale indeling en wordt onder begeleiding structuur aangebracht.</li>
+                    <br>
+                    <li class="geenbolletjeli"><b>Computerorganisatie:</b> Veel informatie is digitaal opgeslagen. Daarom worden ook de e-mail en de documenten in de computer gereorganiseerd.</li>
+                    <br>
+                    <li class="geenbolletjeli"><b>Timemanagement:</b> Aan de cursist wordt gevraagd een overzicht te maken van het takenpakket. Aan de hand van de actielijst en het takenoverzicht van de cursist wordt een structuur ontworpen. De cursist leert beter plannen en krijgt een eenvoudig systeem van onthouden aangereikt. Daardoor verdwijnen stapels, kan er doelmatiger gewerkt worden en wordt niets meer vergeten. De achterstand die in het verleden is ontstaan wordt weggewerkt. Digitale agenda’s worden optimaal gebruikt.</li>
+                </ul>
             </div>
         </div>
         <!-- /.row -->

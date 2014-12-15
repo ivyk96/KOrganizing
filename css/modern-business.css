@@ -55,6 +55,20 @@
     color: #FC8309;
 }
 
+.oulink {
+    color: #FC8309;
+    text-decoration: underline;
+}
+
+.oulink:hover {
+    color: #FC8309;
+    text-decoration: underline;
+}
+
+.geenbolletjeli {
+    list-style-type: none;
+}
+
 .footer-tekst {
     color: #FC8309;
 }

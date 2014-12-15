@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Home</title>
+	<title>Kate Organizing - Workshop</title>
     <?php require_once('requires/head.html') ?>
 </head>
 
@@ -30,28 +30,34 @@
         <!-- Features Section -->
         <div class="row">
             <div class="text-center">
-                <h3 class="page-header2">prioriTIJD aan kwaliTIJD</h3>
+                <h3 class="page-header2">TIJD voor prioriTIJD</h3>
             </div>
 
             <br>
 
             <div class="col-lg-12">
-                <h4 class="page-header3">ORGANISEREN KUN JE LEREN</h4>
+                <h4 class="page-header3">GROEPSPROCES</h4>
             </div>
         </div>
         <hr>
         <div class="row"> 
             <div class="col-md-12">
                 <p>
-                    Dagelijks een stroom aan mailverkeer, stapels post, een overvolle agenda en altijd tijd tekort?
-                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak maar hebben nooit geleerd hoe ze hun werk efficiënt en effectief organiseren.
-                    Er is niet altijd sprake van chaos! Er zijn mensen die alles prima in orde hebben, maar geen (goed) systeem hebben aangebracht. Ook dat kan tot problemen leiden.
+                    Het is mogelijk “in-company” een workshop te organiseren voor een groep van maximaal 12 medewerkers. 
+                    In een interactieve sfeer zullen de deelnemers handvaten aangereikt krijgen om een en ander praktisch toe te passen.
                 </p>
-                <p><b>Tijd om het roer om te gooien, om echt kwaliTIJD voor jezelf te krijgen!</b></p>
+                <p><b>Het programma:</b></p>
+                <ul>
+                    <li>opwarmen met een oefening</li>
+                    <li>praktische theorie van timemanagement – van geen tijd naar kwaliTIJD</li>
+                    <li>tussenoefening</li>
+                    <li>prioriteiten</li>
+                    <li>plannen en het bewaken van de planning</li>
+                    <li>toepassen van theorie op eigen praktijk</li>
+                </ul>
                 <p>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u brengt ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
-                    het plannen van de agenda en met het indelen van tijd en taken. De training Effectief en Efficiënt werken is gebaseerd op o.a. de principes van "Getting 
-                    things done" en Steven Covey. De training vindt plaats daar waar het nodig is: op de werkplek zelf. De persoonlijke aanpak leidt tot grote resultaten.
+                    De workshop neemt 1 dagdeel in beslag. Aansluitend kunnen de deelnemers gebruik maken van de individuele coaching op de werkplek om het beste 
+                    <a href="resultaat.php" class="oulink">resultaat</a> te bereiken.
                 </p>
             </div>
         </div>

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Home</title>
+	<title>Kate Organizing - Digitaliseren</title>
     <?php require_once('requires/head.html') ?>
 </head>
 
@@ -30,29 +30,50 @@
         <!-- Features Section -->
         <div class="row">
             <div class="text-center">
-                <h3 class="page-header2">prioriTIJD aan kwaliTIJD</h3>
+                <h3 class="page-header2">clean desk</h3>
             </div>
 
             <br>
 
             <div class="col-lg-12">
-                <h4 class="page-header3">ORGANISEREN KUN JE LEREN</h4>
+                <h4 class="page-header3">DIGITALISEREN</h4>
             </div>
         </div>
         <hr>
         <div class="row"> 
             <div class="col-md-12">
                 <p>
-                    Dagelijks een stroom aan mailverkeer, stapels post, een overvolle agenda en altijd tijd tekort?
-                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak maar hebben nooit geleerd hoe ze hun werk efficiënt en effectief organiseren.
-                    Er is niet altijd sprake van chaos! Er zijn mensen die alles prima in orde hebben, maar geen (goed) systeem hebben aangebracht. Ook dat kan tot problemen leiden.
+                    Tegenwoordig gaan steeds meer organisaties het flexwerken toepassen. Medewerkers hebben geen vaste werkplek meer en door de invoering van het principe 
+                    “clean desk” krijgen de medewerkers minder archiefruimte ter beschikking. Dit heeft voor de organisatie en de medewerkers tot gevolg:
                 </p>
-                <p><b>Tijd om het roer om te gooien, om echt kwaliTIJD voor jezelf te krijgen!</b></p>
-                <p>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u brengt ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
-                    het plannen van de agenda en met het indelen van tijd en taken. De training Effectief en Efficiënt werken is gebaseerd op o.a. de principes van "Getting 
-                    things done" en Steven Covey. De training vindt plaats daar waar het nodig is: op de werkplek zelf. De persoonlijke aanpak leidt tot grote resultaten.
-                </p>
+                <ul>
+                    <li>Archieven moeten worden geschoond</li>
+                    <li>Documenten moeten worden gedigitaliseerd</li>
+                    <li>De documenten moeten digitaal goed vindbaar worden opgeslagen.</li>
+                </ul>
+                <br>
+                <p>Kate Organizing kan uw organisatie helpen bij:</p>
+                <ul>
+                    <li class="geenbolletjeli"><b>Het schonen van de archieven</b>
+                        Het is voor medewerkers lastig om te beslissen welke documenten wel/niet bewaard moeten worden. Kate Organizing begeleidt de medewerkers in het maken van 
+                        keuzes en zorgt er voor dat de vaart er in blijft.
+                    </li>
+                    <br>
+                    <li class="geenbolletjeli"><b>Het digitaliseren</b>
+                        Als uitgezocht is welke documenten gedigitaliseerd moeten worden zorgt Kate Organizing dat de juiste apparatuur gehuurd wordt en dat er iemand is die de 
+                        documenten kan digitaliseren.
+                    </li>
+                    <br>
+                    <li class="geenbolletjeli"><b>Het inrichten van de digitale opslag</b>
+                        De documenten moeten binnen een goede structuur opgeslagen worden, hier kan Kate Organizing bij helpen.
+                    </li>
+                    <br>
+                    <li class="geenbolletjeli"><b>Sharepoint</b>
+                        In Sharepoint, een beproefd systeem om documenten op te slaan, kan Kate Organizing bibliotheken voor u inrichten. Zij zorgt dat uw documenten altijd 
+                        gevonden kunnen worden door de juiste metadata aan de documenten mee te geven. Bovendien leert zij uw medewerkers hoe zij zelf documenten kunnen uploaden 
+                        en voorzien van de juiste gegevens.
+                    </li>
+                </ul>
             </div>
         </div>
         <!-- /.row -->

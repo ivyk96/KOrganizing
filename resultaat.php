@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Home</title>
+	<title>Kate Organizing - Resultaat</title>
     <?php require_once('requires/head.html') ?>
 </head>
 
@@ -30,29 +30,38 @@
         <!-- Features Section -->
         <div class="row">
             <div class="text-center">
-                <h3 class="page-header2">prioriTIJD aan kwaliTIJD</h3>
+                <h3 class="page-header2">kwaliTIJD voor jezelf</h3>
             </div>
 
             <br>
 
             <div class="col-lg-12">
-                <h4 class="page-header3">ORGANISEREN KUN JE LEREN</h4>
+                <h4 class="page-header3">PERSOONLIJKE EFFECTIVITEIT</h4>
             </div>
         </div>
         <hr>
         <div class="row"> 
             <div class="col-md-12">
                 <p>
-                    Dagelijks een stroom aan mailverkeer, stapels post, een overvolle agenda en altijd tijd tekort?
-                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak maar hebben nooit geleerd hoe ze hun werk efficiënt en effectief organiseren.
-                    Er is niet altijd sprake van chaos! Er zijn mensen die alles prima in orde hebben, maar geen (goed) systeem hebben aangebracht. Ook dat kan tot problemen leiden.
+                    <b>Rust en ruimte</b>
+                    <br>
+                    Het effect van organizing en timemanagement is het ontstaan van rust en ruimte. Het hoofd raakt leeg, waardoor efficiënter en effectiever gewerkt kan worden.
                 </p>
-                <p><b>Tijd om het roer om te gooien, om echt kwaliTIJD voor jezelf te krijgen!</b></p>
-                <p>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u brengt ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
-                    het plannen van de agenda en met het indelen van tijd en taken. De training Effectief en Efficiënt werken is gebaseerd op o.a. de principes van "Getting 
-                    things done" en Steven Covey. De training vindt plaats daar waar het nodig is: op de werkplek zelf. De persoonlijke aanpak leidt tot grote resultaten.
-                </p>
+                <br>
+                <p><b>De resultaten voor de cursist en daardoor voor het bedrijf:</b></p>
+                <ul>
+                    <li>alle overbodige rommel is verdwenen</li>
+                    <li>beschikbare informatie is up to date </li>
+                    <li>tijdverlies door zoeken is beperkt </li>
+                    <li>er is weer kastruimte beschikbaar </li>
+                    <li>het is eenvoudiger geworden om prioriteiten te stellen </li>
+                    <li>men kan (weer) "nee" zeggen </li>
+                    <li>er is grip op de activiteiten </li>
+                    <li>onverwachte gebeurtenissen leiden niet tot achterstand en stress</li>
+                    <li>overwerken is geen gewoonte meer </li>
+                    <li>collega's zijn onderling vervangbaar </li>
+                    <li>na elke werkdag een voldaan gevoel</li>
+                </ul>
             </div>
         </div>
         <!-- /.row -->

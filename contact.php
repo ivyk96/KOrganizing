@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Kate Organizing - Home</title>
+	<title>Kate Organizing - Contact</title>
     <?php require_once('requires/head.html') ?>
 </head>
 
@@ -30,29 +30,37 @@
         <!-- Features Section -->
         <div class="row">
             <div class="text-center">
-                <h3 class="page-header2">prioriTIJD aan kwaliTIJD</h3>
+                <h3 class="page-header2">tijd voor ACTIE</h3>
             </div>
 
             <br>
 
             <div class="col-lg-12">
-                <h4 class="page-header3">ORGANISEREN KUN JE LEREN</h4>
+                <h4 class="page-header3">CONTACT</h4>
             </div>
         </div>
         <hr>
         <div class="row"> 
             <div class="col-md-12">
                 <p>
-                    Dagelijks een stroom aan mailverkeer, stapels post, een overvolle agenda en altijd tijd tekort?
-                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak maar hebben nooit geleerd hoe ze hun werk efficiënt en effectief organiseren.
-                    Er is niet altijd sprake van chaos! Er zijn mensen die alles prima in orde hebben, maar geen (goed) systeem hebben aangebracht. Ook dat kan tot problemen leiden.
+                    Cathy Hoekstra heeft in 1985 haar HBO diploma aan de Haagse Hogeschool voor docent lichamelijke opvoeding behaald. Zij is sindsdien onder andere werkzaam 
+                    in de fitnessbranche als instructeur. Sinds 1986 heeft ze bij diverse bedrijven ervaring opgedaan in het opzetten van administraties. Ook heeft ze met veel 
+                    plezier een paar jaar voor een trainingsbureau gewerkt. In 2000 maakte ze kennis met Professional Organizing. Ze heeft de opleiding tot professional 
+                    organizer gedaan en werd lid van de NPO (later NBPO) In datzelfde jaar is ze begonnen met haar werkzaamheden als trainer en coach onder de naam Kate Organizing.
                 </p>
-                <p><b>Tijd om het roer om te gooien, om echt kwaliTIJD voor jezelf te krijgen!</b></p>
-                <p>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u brengt ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
-                    het plannen van de agenda en met het indelen van tijd en taken. De training Effectief en Efficiënt werken is gebaseerd op o.a. de principes van "Getting 
-                    things done" en Steven Covey. De training vindt plaats daar waar het nodig is: op de werkplek zelf. De persoonlijke aanpak leidt tot grote resultaten.
-                </p>
+                <br>
+                <p><b>Voor meer informatie en/of het maken van een afspraak kunt u contact met me opnemen:</b></p>
+                <ul>
+                    <li class="geenbolletjeli"><a href="mailto:info@kateorganizing.nl" class="oulink">info@kateorganizing.nl</a></li>
+                    <li class="geenbolletjeli">078-6427346</li>
+                    <li class="geenbolletjeli">Papendrecht</li>
+                    <br>
+                    <li>ik neem zo spoedig mogelijk contact met u op</li>
+                    <li>wij maken een afspraak voor een vrijblijvend gesprek bij u op locatie</li>
+                    <li>u krijgt een offerte en een inschatting van het benodigde aantal uren</li>
+                    <li>wij maken de eerste afspraak voor de intake</li>
+                    <li>vervolgafspraken plannen we naar behoefte</li>
+                </ul>
             </div>
         </div>
         <!-- /.row -->
