@@ -60,29 +60,8 @@
 
         <hr>
 
-        <div class="row">
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-blauw">contact</h4>
-                <p>info@kateorganizing.nl</p>
-                <p>078-6427346</p>
-                <p>Papendrecht</p>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-oranje">social media</h4>
-                <a href="https://www.linkedin.com/pub/cathy-hoekstra/3/b51/a94" target="_blank"><p><i class="fa fa-linkedin-square"></i> linkedin</p></a>
-                <a href="https://twitter.com/HoekstraCathy" target="_blank"><p><i class="fa fa-twitter-square"></i> twitter</p></a>
-                <a href="https://www.facebook.com/pages/Kate-Organizing/715162075186679?pnref=lhc" target="_blank"><p><i class="fa fa-facebook-square"></i> facebook</p></a>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-blauw">referenties</h4>
-                <p>klik <a href="referenties.php">hier</a> voor referenties</p>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-oranje">NBPO</h4>
-                <img class="img-responsive" src="img/nbpo.png">
-            </div>
-
-        </div>
+        <?php require_once('requires/infoblock.php'); ?>
+        
         <hr>
 
         <!-- Footer -->

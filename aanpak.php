@@ -55,7 +55,7 @@
                     <br>
                     <li class="geenbolletjeli"><b>Timemanagement:</b> Aan de cursist wordt gevraagd een overzicht te maken van het takenpakket. Aan de hand van de actielijst en het takenoverzicht van de cursist wordt een structuur ontworpen. De cursist leert beter plannen en krijgt een eenvoudig systeem van onthouden aangereikt. Daardoor verdwijnen stapels, kan er doelmatiger gewerkt worden en wordt niets meer vergeten. De achterstand die in het verleden is ontstaan wordt weggewerkt. Digitale agenda’s worden optimaal gebruikt.</li>
                     <br>
-                    <li class="geenbolletjeli"><b>Telefonische Nazorg: </b> Als het niet nodig is om nog op locatie te werken maar ondersteuning op afstand nog wel wenselijk.</li>
+                    <li class="geenbolletjeli"><b>Telefonische Nazorg: </b> Gedragsverandering kost tijd. Na afloop van het traject blijven we in contact om na te gaan of de nieuwe werkwijze stand houdt en dit waar nodig aan te passen.</li>
                 </ul>
             </div>
         </div>
@@ -63,29 +63,8 @@
 
         <hr>
 
-        <div class="row">
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-blauw">contact</h4>
-                <p>info@kateorganizing.nl</p>
-                <p>078-6427346</p>
-                <p>Papendrecht</p>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-oranje">social media</h4>
-                <a href="https://www.linkedin.com/pub/cathy-hoekstra/3/b51/a94" target="_blank"><p><i class="fa fa-linkedin-square"></i> linkedin</p></a>
-                <a href="https://twitter.com/HoekstraCathy" target="_blank"><p><i class="fa fa-twitter-square"></i> twitter</p></a>
-                <a href="https://www.facebook.com/pages/Kate-Organizing/715162075186679?pnref=lhc" target="_blank"><p><i class="fa fa-facebook-square"></i> facebook</p></a>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-blauw">referenties</h4>
-                <p>klik hier voor referenties</p>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-oranje">NBPO</h4>
-                <img class="img-responsive" src="img/nbpo.png">
-            </div>
-
-        </div>
+        <?php require_once('requires/infoblock.php'); ?>
+        
         <hr>
 
         <!-- Footer -->

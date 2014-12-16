@@ -43,8 +43,8 @@
                     in de fitnessbranche als instructeur en heb ik bij diverse bedrijven ervaring opgedaan in het opzetten van administraties. Ook heb ik met veel 
                     plezier een paar jaar voor een trainingsbureau gewerkt. In 2000 maakte ik kennis met Professional Organizing. Ik heb de opleiding tot professional 
                     organizer gedaan en werd lid van de NPO (later NBPO) In datzelfde jaar ben ik begonnen met mijn werkzaamheden als trainer en coach onder de 
-                    naam Kate Organizing. Aangezien ik het belangrijk vind om mezelf te blijven verbeteren doe ik regelmatig aan bijscholing. Zo heb ik in 2014 
-                    heb ik een aantal modules van de School voor organizing gevolgd en in 2015 ga ik er nog een paar doen. Ook zit ik met een aantal collega's in een 
+                    naam Kate Organizing. Aangezien ik het belangrijk vind om mezelf te blijven verbeteren doe ik regelmatig aan bijscholing. Zo heb ik in 2014 een aantal modules
+                    van de School voor organizing gevolgd en in 2015 ga ik er nog een paar doen. Ook zit ik met een aantal collega's in een 
                     intervisiegroep. Zo houden we elkaar scherp in het uitoefenen van ons vak.
                 </p>
                 <br>
@@ -66,29 +66,8 @@
 
         <hr>
 
-        <div class="row">
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-blauw">contact</h4>
-                <p>info@kateorganizing.nl</p>
-                <p>078-6427346</p>
-                <p>Papendrecht</p>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-oranje">social media</h4>
-                <a href="https://www.linkedin.com/pub/cathy-hoekstra/3/b51/a94" target="_blank"><p><i class="fa fa-linkedin-square"></i> linkedin</p></a>
-                <a href="https://twitter.com/HoekstraCathy" target="_blank"><p><i class="fa fa-twitter-square"></i> twitter</p></a>
-                <a href="https://www.facebook.com/pages/Kate-Organizing/715162075186679?pnref=lhc" target="_blank"><p><i class="fa fa-facebook-square"></i> facebook</p></a>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-blauw">referenties</h4>
-                <p>klik hier voor referenties</p>
-            </div>
-            <div class="col-md-3 portfolio-item">
-                <h4 class="contact-header-oranje">NBPO</h4>
-                <img class="img-responsive" src="img/nbpo.png">
-            </div>
-
-        </div>
+        <?php require_once('requires/infoblock.php'); ?>
+        
         <hr>
 
         <!-- Footer -->

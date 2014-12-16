@@ -12,7 +12,6 @@
 
 .navbar-inverse {
     background-color: #FC8309;
-    border-color: #FC8309;
 }
 
 .navbar-inverse .navbar-brand {
@@ -51,8 +50,18 @@
     color: #00A5CA;
 }
 
+.contact-header-blauw:hover {
+    color: #00A5CA;
+    text-decoration: none;
+}
+
 .contact-header-oranje {
     color: #FC8309;
+}
+
+.contact-header-oranje:hover {
+    color: #FC8309;
+    text-decoration: none;
 }
 
 .oulink {
