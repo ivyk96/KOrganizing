@@ -39,7 +39,17 @@
         <hr>
         <div class="row"> 
             <div class="col-md-12">
-                
+                <p>
+                    Dankzij de begeleiding van Cathy heb ik geleerd om beter prioriteiten te stellen en mijn werkzaamheden te plannen waardoor ik veel doelmatiger dan eerst werk. Dit geeft overzicht in mijn werkzaamheden.
+                    <br>
+                    <b>Oscasr Bijl, Lans Instruments</b>
+                </p>
+                <hr>
+                <p>
+                    Dankzij de begeleiding van Cathy heb ik geleerd om beter prioriteiten te stellen en mijn werkzaamheden te plannen waardoor ik veel doelmatiger dan eerst werk. Dit geeft overzicht in mijn werkzaamheden.
+                    <br>
+                    <b>Oscasr Bijl, Lans Instruments</b>
+                </p>
             </div>
         </div>
         <!-- /.row -->
