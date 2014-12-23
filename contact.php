@@ -32,7 +32,7 @@
             <br>
 
             <div class="col-lg-12">
-                <h4 class="page-header3">CONTACT</h4>
+                <h4 class="page-header3">CATHY IN HET KORT</h4>
             </div>
         </div>
         <hr>

@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-md-3 portfolio-item">
         <h4><a href="contact.php" class="contact-header-blauw">contact</a></h4>
-        <p><a href="mailto:info@kateorganizing.nl?Subject=Contact%20Kate%20Organizing" target="_top" class="contact-header-oranje">info@kateorganizing.nl</a></p>
+        <p><a href="mailto:info@kateorganizing.nl?Subject=Contact%20Kate%20Organizing" target="_top" class="contact-header-blauw">info@kateorganizing.nl</a></p>
         <p>078-6427346</p>
         <p>Papendrecht</p>
     </div>
