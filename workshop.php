@@ -20,7 +20,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo.png">
+                <img class="img-responsive" src="img/logo1.png">
             
             </div>
         </div>
@@ -32,28 +32,33 @@
 
             <br>
 
+        </div>
+        
+        <hr>
+
+        <div class="row">
+
             <div class="col-lg-12">
                 <h4 class="page-header3">GROEPSPROCES</h4>
             </div>
-        </div>
-        <hr>
-        <div class="row"> 
+
             <div class="col-md-12">
+
+            <br>
                 <p>
-                    Het is mogelijk “in-company” een workshop te organiseren voor een groep van maximaal 12 medewerkers. 
-                    In een interactieve sfeer zullen de deelnemers handvaten aangereikt krijgen om een en ander praktisch toe te passen.
+                    Het is mogelijk “in-company” een workshop te organiseren voor een groep medewerkers. Het programma wordt gemaakt in overleg en kan de volgende onderwerpen bevatten:
                 </p>
-                <p><b>Het programma:</b></p>
+                <p><b>Onderwerpen:</b></p>
                 <ul>
                     <li>opwarmen met een oefening</li>
                     <li>praktische theorie van timemanagement – van geen tijd naar kwaliTIJD</li>
-                    <li>tussenoefening</li>
                     <li>prioriteiten</li>
                     <li>plannen en het bewaken van de planning</li>
                     <li>toepassen van theorie op eigen praktijk</li>
+                    <li>Outlook</li>
                 </ul>
                 <p>
-                    De workshop neemt 1 dagdeel in beslag. Aansluitend kunnen de deelnemers gebruik maken van de individuele coaching op de werkplek om het beste 
+                    In een interactieve sfeer zullen de deelnemers handvaten aangereikt krijgen om een en ander praktisch toe te passen. Een workshop neemt 1 dagdeel in beslag. Aansluitend kunnen de deelnemers gebruik maken van de individuele coaching op de werkplek om het beste
                     <a href="resultaat.php" class="oulink">resultaat</a> te bereiken.
                 </p>
             </div>

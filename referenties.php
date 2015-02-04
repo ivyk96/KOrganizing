@@ -20,7 +20,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo.png">
+                <img class="img-responsive" src="img/logo1.png">
             
             </div>
         </div>
@@ -32,32 +32,26 @@
 
             <br>
 
+        </div>
+        
+        <hr>
+
+        <div class="row"> 
+
             <div class="col-lg-12">
                 <h4 class="page-header3">EEN SELECTIE TEVREDEN KLANTEN</h4>
             </div>
-        </div>
-        <hr>
-        <div class="row"> 
+            
             <div class="col-md-12">
+                <br>
                 <p><i>
-                    "Ik krijg vanuit veel richtingen heel veel informatie en werk op me af. Op een gegeven moment was ik het gevoel van 
-                    controle kwijt. Na een aantal afspraken met Cathy had ik mijn werk weer op de rit. Cathy heeft me geholpen met het 
-                    reorganiseren van mijn werkplek en het stellen van prioriteiten. Daarnaast heeft zij het belang van het inplannen van 
-                    tijdsblokken in mijn agenda nog eens onderstreept. Ik heb het contact met Cathy als heel prettig ervaren; constructieve en 
-                    duidelijke feedback waarbij ook de component humor ruim aanwezig was."
+                    Cathy heeft mij inzicht gegeven in het ordenen van mail en het structureren van mijn agenda. Ik merkte dat ik veel afspraken ad 
+                    hoc plande en dat terugkerende en repeterende werkzaamheden hierdoor in het gedrang kwamen. Door op een andere manier te kijken 
+                    naar het beheren van mail en agendagebruik is mijn werk overzichtelijker geworden.
                     </i>
                     <br>
                     <br>
-                    Leen de Lange, Karat Nederland B.V.
-                </p>
-                <hr>
-
-                <p><i>
-                    Cathy heeft medewerkers praktisch en snel geholpen om prioriteiten te stellen en opgeruimd aan het werk te gaan.
-                    </i>
-                    <br>
-                    <br>
-                    Hans van ’t Hof, HR Director, Pelican Rouge Coffee Solutions BV
+                    Sarah Hainey, Teamleider <b><i>Cavent</i></b>
                 </p>
                 <hr>
 
@@ -70,7 +64,40 @@
                     </i>
                     <br>
                     <br>
-                    Herman Nanninga, Sales Manager, Viking Life-Saving Equipment B.V.
+                    Herman Nanninga, Sales Manager, <b><i>Viking Life-Saving Equipment B.V.</i></b>
+                </p>
+                <hr>
+
+                <p><i>
+                    Al weer bijna 10(!) jaar geleden heeft Cathy binnen onze onderneming haar vaardigheden op ons overgebracht. De meeste zijn goed 
+                    ‘blijven hangen’ en gebruiken we nog steeds! Ordening en prioriteiten zijn de belangrijkste. Een ieder die hier moeite mee heeft 
+                    raad ik zéker een sessie met Cathy aan!
+                    </i>
+                    <br>
+                    <br>
+                   Teo van Maastricht, <b><i>DGA Vermaas groep</i></b>
+                </p>
+                <hr>
+
+                <p><i>
+                    "Ik krijg vanuit veel richtingen heel veel informatie en werk op me af. Op een gegeven moment was ik het gevoel van 
+                    controle kwijt. Na een aantal afspraken met Cathy had ik mijn werk weer op de rit. Cathy heeft me geholpen met het 
+                    reorganiseren van mijn werkplek en het stellen van prioriteiten. Daarnaast heeft zij het belang van het inplannen van 
+                    tijdsblokken in mijn agenda nog eens onderstreept. Ik heb het contact met Cathy als heel prettig ervaren; constructieve en 
+                    duidelijke feedback waarbij ook de component humor ruim aanwezig was."
+                    </i>
+                    <br>
+                    <br>
+                    Leen de Lange, <b><i>Karat Nederland B.V.</i></b>
+                </p>
+                <hr>
+
+                <p><i>
+                    Cathy heeft medewerkers praktisch en snel geholpen om prioriteiten te stellen en opgeruimd aan het werk te gaan.
+                    </i>
+                    <br>
+                    <br>
+                    Hans van ’t Hof, HR Director, <b><i>Pelican Rouge Coffee Solutions BV</i></b>
                 </p>
                 <hr>
 
@@ -80,20 +107,11 @@
                     </i>
                     <br>
                     <br>
-                    Oscar Bijl, Lans Instruments
+                    Oscar Bijl, <b><i>Lans Instruments</i></b>
                 </p>
                 <hr>
 
-                <p><i>
-                    Cathy heeft mij inzicht gegeven in het ordenen van mail en het structureren van mijn agenda. Ik merkte dat ik veel afspraken ad 
-                    hoc plande en dat terugkerende en repeterende werkzaamheden hierdoor in het gedrang kwamen. Door op een andere manier te kijken 
-                    naar het beheren van mail en agendagebruik is mijn werk overzichtelijker geworden.
-                    </i>
-                    <br>
-                    <br>
-                    Sarah Hainey, Teamleider Cavent
-                </p>
-                <hr>
+                
 
                 <p><i>
                     Meer georganiseerd werken dankzij Kate Organizing Kate Organizing heeft mij op een prettige manier geleerd om focus te houden op 
@@ -102,17 +120,8 @@
                     </i>
                     <br>
                     <br>
-                    Gert van der Lee,  Eigenaar 4Port Services
+                    Gert van der Lee,  Eigenaar <b><i>4Port Services</i></b>
                 </p>
-
-                <!--<p><i>
-                    
-                    </i>
-                    <br>
-                    <br>
-                    
-                </p>
-                <hr> -->
             </div>
         </div>
         <!-- /.row -->

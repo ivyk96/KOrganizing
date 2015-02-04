@@ -20,7 +20,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo.png">
+                <img class="img-responsive" src="img/logo1.png">
             
             </div>
         </div>
@@ -32,45 +32,49 @@
 
             <br>
 
+        </div>
+
+        <hr>
+
+        <div class="row"> 
+
             <div class="col-lg-12">
                 <h4 class="page-header3">DIGITALISEREN</h4>
             </div>
-        </div>
-        <hr>
-        <div class="row"> 
+
             <div class="col-md-12">
+                <br>
                 <p>
-                    Tegenwoordig gaan steeds meer organisaties het flexwerken toepassen. Medewerkers hebben geen vaste werkplek meer en door de invoering van het principe 
-                    “clean desk” krijgen de medewerkers minder archiefruimte ter beschikking. Dit heeft voor de organisatie en de medewerkers tot gevolg:
+                    Tegenwoordig passen steeds meer organisaties het flexwerken toe. Dat houdt in dat medewerkers geen vaste werkplek meer hebben en door de invoering van het “clean desk” principe heeft iedere medewerker minder ‘eigen’ archiefruimte ter beschikking.
+                    Om het flexwerken goed te laten verlopen, zullen er eerst enkele stappen doorlopen worden.
                 </p>
+
                 <ul>
                     <li>Archieven moeten worden geschoond</li>
                     <li>Documenten moeten worden gedigitaliseerd</li>
                     <li>De documenten moeten digitaal goed vindbaar worden opgeslagen.</li>
                 </ul>
+
                 <br>
-                <p>Kate Organizing kan uw organisatie helpen bij:</p>
-                <ul>
-                    <li class="geenbolletjeli"><b>Het schonen van de archieven</b>
-                        Het is voor medewerkers lastig om te beslissen welke documenten wel/niet bewaard moeten worden. Kate Organizing begeleidt de medewerkers in het maken van 
-                        keuzes en zorgt er voor dat de vaart er in blijft.
-                    </li>
-                    <br>
-                    <li class="geenbolletjeli"><b>Het digitaliseren</b>
-                        Als uitgezocht is welke documenten gedigitaliseerd moeten worden zorgt Kate Organizing dat de juiste apparatuur gehuurd wordt en dat er iemand is die de 
-                        documenten kan digitaliseren.
-                    </li>
-                    <br>
-                    <li class="geenbolletjeli"><b>Het inrichten van de digitale opslag</b>
-                        De documenten moeten binnen een goede structuur opgeslagen worden, hier kan Kate Organizing bij helpen.
-                    </li>
-                    <br>
-                    <li class="geenbolletjeli"><b>Sharepoint</b>
-                        In Sharepoint, een beproefd systeem om documenten op te slaan, kan Kate Organizing bibliotheken voor u inrichten. Zij zorgt dat uw documenten altijd 
-                        gevonden kunnen worden door de juiste metadata aan de documenten mee te geven. Bovendien leert zij uw medewerkers hoe zij zelf documenten kunnen uploaden 
-                        en voorzien van de juiste gegevens.
-                    </li>
-                </ul>
+
+                <h4>KATE ORGANIZING HELPT UW ORGANISATIE BIJ:</h4>
+                
+                <p><b>Het opschonen van archieven</b><br>
+                    Vaak is het lastig te bepalen welke documenten wel/niet bewaard moeten blijven. Kate Organizing begeleidt de medewerkers in het maken van de juiste keuzes zonder te verzanden in ellenlange discussies.
+                </p>
+
+                <p><b>Het digitaliseren van documenten.</b><br>
+                    Kate Organizing heeft de expertise om te bepalen wat er nodig is om de gewenste documenten te digitaliseren. In overleg met u worden de benodigde apparatuur en/of mensen ingehuurd.
+                </p>
+
+                <p><b>Het inrichten van de digitale opslag.</b><br>
+                    Kate Organizing helpt u met het opzetten van een goede structuur om uw documenten in op te slaan.
+                </p>
+
+                <p><b>Sharepoint</b><br>
+                    Dit is een beproeft systeem om documenten op te slaan. Kate Organizing helpt u met het inrichten van bibliotheken en leert uw medewerkers hoe zij zelf in de toekomst documenten, voorzien van de juiste gegevens en metadata, kunnen uploaden.
+                </p>
+
             </div>
         </div>
         <!-- /.row -->

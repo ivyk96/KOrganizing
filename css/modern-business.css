@@ -10,8 +10,12 @@
     font-family: verdana;
 }
 
+.minicontact {
+    font-size: 11px;
+}
+
 .navbar-inverse {
-    background-color: #FC8309;
+    background-color: #E65C00;
 }
 
 .navbar-inverse .navbar-brand {
@@ -39,7 +43,7 @@
 }
 
 .page-header2 {
-    color: #FC8309;
+    color: #E65C00;
 }
 
 .page-header3 {

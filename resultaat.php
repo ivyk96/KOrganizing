@@ -20,7 +20,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo.png">
+                <img class="img-responsive" src="img/logo1.png">
             
             </div>
         </div>
@@ -32,33 +32,48 @@
 
             <br>
 
+        </div>
+        
+        <hr>
+
+        <div class="row"> 
+
             <div class="col-lg-12">
                 <h4 class="page-header3">PERSOONLIJKE EFFECTIVITEIT</h4>
             </div>
-        </div>
-        <hr>
-        <div class="row"> 
+
             <div class="col-md-12">
+                <br>
                 <p>
                     <b>Rust en ruimte</b>
                     <br>
-                    Het effect van organizing en timemanagement is het ontstaan van rust en ruimte. Het hoofd raakt leeg, waardoor effectiever en efficiënter gewerkt kan worden.
+                    Door de werkzaamheden vanaf nu goed te organiseren ontstaat er rust en ruimte, niet alleen op de werkplek, maar ook in het hoofd. Hierdoor wordt er effectiever en efficiënter gewerkt.
                 </p>
+
                 <br>
-                <p><b>De resultaten voor de cursist en daardoor voor het bedrijf:</b></p>
+
+                <b>De resultaten voor zowel de cursist als voor het bedrijf:</b>
                 <ul>
-                    <li>alle overbodige rommel is verdwenen</li>
-                    <li>beschikbare informatie is up to date </li>
-                    <li>tijdverlies door zoeken is beperkt </li>
-                    <li>er is weer kastruimte beschikbaar </li>
-                    <li>het is eenvoudiger geworden om prioriteiten te stellen </li>
-                    <li>men kan (weer) "nee" zeggen </li>
-                    <li>er is grip op de activiteiten </li>
-                    <li>onverwachte gebeurtenissen leiden niet tot achterstand en stress</li>
-                    <li>overwerken is geen gewoonte meer </li>
-                    <li>collega's zijn onderling vervangbaar </li>
-                    <li>na elke werkdag een voldaan gevoel</li>
+                    <br>
+                    <li>Geen overbodige rommel op de werkplek</li>
+                    <li>Database is up to date</li>
+                    <li>Geen tijdverlies door onnodig zoekwerk</li>
+                    <li>Er is weer kastruimte beschikbaar</li>
+                    <li>Onverwachte gebeurtenissen leiden niet meer tot achterstand en stress</li>
+                    <li>Overwerk wordt weer een uitzondering</li>
+                    <li>Men kan weer “nee” zeggen</li>
+                    <li>Prioriteiten stellen is eenvoudiger geworden</li>
                 </ul>
+                
+                <br>
+                
+                <b>Maar ook:</b>
+                <ul>
+                <br>
+                    <li>Heeft men weer meer grip op de werkzaamheden</li>
+                    <li>Zijn collega's onderling beter vervangbaar</li>
+                    <li>Een gaat iedereen 's avonds met een voldaan gevoel naar huis!</li>
+                <ul>
             </div>
         </div>
         <!-- /.row -->

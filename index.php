@@ -21,7 +21,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo.png">
+                <img class="img-responsive" src="img/logo1.png">
             
             </div>
             <div class="col-md-3">
@@ -36,23 +36,37 @@
 
             <br>
 
-            <div class="col-lg-12">
-                <h4 class="page-header3">ORGANISEREN KUN JE LEREN</h4>
-            </div>
         </div>
+
         <hr>
-        <div class="row"> 
+
+        <div class="row">
+
+            <div class="col-lg-12">
+                <h4 class="page-header3">ORGANISEREN KAN JE LEREN</h4>
+            </div>
+            
             <div class="col-md-12">
+                <br>
                 <p>
-                    Dagelijks een stroom aan mailverkeer, stapels post, een overvolle agenda en altijd tijd tekort?
-                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak maar hebben nooit geleerd hoe ze hun werk efficiënt en effectief organiseren.
-                    Er is niet altijd sprake van chaos! Er zijn mensen die alles prima in orde hebben, maar geen (goed) systeem hebben aangebracht. Ook dat kan tot problemen leiden.
+                    De dagelijkse stroom mailverkeer, stapels post, een overvolle agenda en te weinig tijd om alles goed te organiseren? 
+                    Kortom, druk, druk, druk en soms bekruipt u het gevoel dat u de controle verliest over uw werkzaamheden.
                 </p>
-                <p><b>Tijd om het roer om te gooien, om echt kwaliTIJD voor jezelf te krijgen!</b></p>
-                <p>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u breng ik structuur aan in uw werkzaamheden en op uw werkplek. Ook help ik met 
-                    het plannen van de agenda en met het indelen van tijd en taken. De training Effectief en Efficiënt werken is gebaseerd op o.a. de principes van "Getting 
-                    things done" en Steven Covey. De training vindt plaats daar waar het nodig is: op de werkplek zelf. De persoonlijke aanpak leidt tot grote resultaten.
+
+                <p><b>Herkent u zichzelf hierin?</b><br>
+                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak, maar hoe ze hun werk efficiënt en effectief kunnen organiseren 
+                    is ze nooit geleerd. Dat kan tot problemen leiden. Niet dat er direct sprake hoeft te zijn van een chaos. Zelfs mensen die 
+                    ogenschijnlijk alles in orde hebben, kunnen verzanden in een oud en inefficiënt systeem. Ook dat kan tot problemen leiden.
+                </p>
+
+                <p><b>Herkent u uw organisatie hierin?</b><br>
+                    Dan is het tijd om het roer om te gooien en met behulp van buitenaf uw werkzaamheden opnieuw te organiseren, zodat u weer <b>kwaliTIJD</b> voor uzelf krijgt
+                </p>
+                <p><b>De oplossing:</b><br>
+                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u breng ik structuur aan in uw werkzaamheden en op uw werkplek. Ook het 
+                    plannen van de agenda, het indelen van tijd en taken, behoort tot mijn specialiteiten. Deze training, Effectief en Efficiënt werken, is gebaseerd 
+                    op de principes van o.a. Steven Covey en “Getting things done”. De training vindt plaats daar waar het nodig is; op de werkplek zelf. 
+                    Deze persoonlijke aanpak heeft bewezen tot grote resultaten te leiden.
                 </p>
             </div>
         </div>

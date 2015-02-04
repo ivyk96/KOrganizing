@@ -20,7 +20,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo.png">
+                <img class="img-responsive" src="img/logo1.png">
             </div>
         </div>
         <!-- Features Section -->
@@ -31,35 +31,52 @@
 
             <br>
 
+        </div>
+
+        <hr>
+        
+        <div class="row"> 
+
             <div class="col-lg-12">
                 <h4 class="page-header3">CATHY IN HET KORT</h4>
             </div>
-        </div>
-        <hr>
-        <div class="row"> 
+            
             <div class="col-md-12">
-                <p>
-                    In 1985 heb ik mijn HBO diploma aan de Haagse Hogeschool voor docent Lichamelijke Opvoeding behaald. Sindsdien ben ik onder andere werkzaam 
-                    in de fitnessbranche als instructeur en heb ik bij diverse bedrijven ervaring opgedaan in het opzetten van administraties. Ook heb ik met veel 
-                    plezier een paar jaar voor een trainingsbureau gewerkt. In 2000 maakte ik kennis met Professional Organizing. Ik heb de opleiding tot professional 
-                    organizer gedaan en werd lid van de NPO (later NBPO) In datzelfde jaar ben ik begonnen met mijn werkzaamheden als trainer en coach onder de 
-                    naam Kate Organizing. Aangezien ik het belangrijk vind om mezelf te blijven verbeteren doe ik regelmatig aan bijscholing. Zo heb ik in 2014 een aantal modules
-                    van de School voor organizing gevolgd en in 2015 ga ik er nog een paar doen. Ook zit ik met een aantal collega's in een 
-                    intervisiegroep. Zo houden we elkaar scherp in het uitoefenen van ons vak.
-                </p>
                 <br>
-                <p><b>Voor meer informatie en/of het maken van een afspraak kunt u contact met me opnemen:</b></p>
+                <p>
+                    Na het voltooien van mijn HBO opleiding heb ik de eerste jaren, naast een korte periode in het onderwijs, voornamelijk als instructeur in de fitnessbranche gewerkt.
+                    De fascinatie voor bedrijfsorganisaties en structuren ontstond toen ik een aantal keren werd betrokken bij het opzetten van administraties. 
+                    Nadat ik enkele jaren voor een trainingsbureau werkzaam was, wist ik waar mijn ambities lagen. Ik volgde een opleiding tot professional organizer, 
+                    waarna ik mij aansloot bij het NBPO, de Nederlandse Beroepsvereniging voor Professional Organizers.
+                    Vanaf 2000 ben ik werkzaam als trainer en coach onder de naam Kate Organizing.
+                </p>
+
+                <p>
+                    Om mijn kennis up to date te houden volg ik regelmatig bijscholingscursussen bij o.a. de School voor Organizing.
+                    Ook houden de contacten met collega’s in de intervisiegroep - waar vraagstukken en successen uit de praktijk behandeld worden om tot een 
+                    effectiever gedrag en functioneren te komen - mij scherp in het uitoefenen van mijn vak. De speerpunten in deze groep zijn; zorgvuldigheid, 
+                    integriteit, vertrouwen en kritisch naar je eigen rol in het geheel (durven) kijken.
+                </p>
+
+                <br>
+
+                <p><b>
+                    Als u na het lezen van deze informatie een afspraak wilt maken voor een vrijblijvend gesprek bij u op locatie* kunt u contact opnemen via:
+                </b></p>
+
                 <ul>
-                    <li class="geenbolletjeli"><a href="mailto:info@kateorganizing.nl" class="oulink">info@kateorganizing.nl</a></li>
-                    <li class="geenbolletjeli">078-6427346</li>
-                    <li class="geenbolletjeli">Papendrecht</li>
-                    <br>
-                    <li>ik neem zo spoedig mogelijk contact met u op</li>
-                    <li>wij maken een afspraak voor een vrijblijvend gesprek bij u op locatie</li>
-                    <li>u krijgt een offerte en een inschatting van het benodigde aantal uren</li>
-                    <li>wij maken de eerste afspraak voor de intake</li>
-                    <li>vervolgafspraken plannen we naar behoefte</li>
+                    <li><a href="mailto:info@kateorganizing.nl?Subject=Contact%20Kate%20Organizing" target="_top" class="contact-header-blauw">info@kateorganizing.nl</a></li>
+                    <li>078-6427346</li>
                 </ul>
+
+                <p>
+                    Tijdens het eerste gesprek bespreken we uw wensen. Vervolgens ontvangt u een offerte met een inschatting van het benodigde aantal uren, waarna we aan de slag kunnen.
+                </p>
+                <p><b>Kate Organizing geeft prioriTIJD aan kwaliTIJD</b></p>
+
+                <br>
+
+                <p class="minicontact"><b>*Binnen een straal van 50 kilometer om Papendrecht. Bevindt uw bedrijf zich buiten deze locatie, schroom niet om contact op te nemen. Door te werken met moderne communicatiemiddelen is er altijd een weg te vinden om een vrijblijvend gesprek te voeren</b></p>
             </div>
         </div>
         <!-- /.row -->
