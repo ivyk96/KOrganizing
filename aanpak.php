@@ -50,7 +50,7 @@
                 </p>
                 <br>
 
-                <p><b>HOE GA IK TE WERK?</b></p>
+                <h4 class="page-header3">HOE GA IK TE WERK?</h4>
                 <br>
 
                 <p><b>Intake</b><br> 
@@ -58,7 +58,7 @@
                 </p>
 
                 <p><b>Werkplekorganisatie</b><br> 
-                    Wat is er op de werkplek aanwezig. Hoe wordt de werkplek gebruikt en hoe kan dat effectiever? Samen gaan we op zoek naar de meest optimale indeling van de werkplek en brengen we structuur aan in de werkzaamheden.
+                    Wat is er op de werkplek aanwezig? Hoe wordt de werkplek gebruikt en hoe kan dat effectiever? Samen gaan we op zoek naar de meest optimale indeling van de werkplek en brengen we structuur aan in de werkzaamheden.
                 </p>
 
                 <p><b>Computerorganisatie</b><br> 
@@ -66,7 +66,7 @@
                 </p>
 
                 <p><b>Timemanagement</b><br> 
-                    Hierin speelt de cursist zelf een grote rol door een overzicht van het takenpakket aan te leveren. Vervolgens maken we aan de hand van dit takenoverzicht en de bijbehorende actielijst een structuur ontwerp. Een eenvoudiger systeem van onthouden, een betere planning en de stapels achterstallig werk verdwijnen eindelijk van het bureau. Voor zover de digitale agenda nog niet wordt gebruikt, zal deze vanaf nu een grote rol in uw leven gaan spelen. Dit zal een grote tijdsbesparing opleveren.
+                    Hierin speelt de cursist zelf een grote rol door een overzicht van het takenpakket aan te leveren. Vervolgens maken we aan de hand van dit takenoverzicht en de bijbehorende actielijst een structuurontwerp. Een eenvoudiger systeem van onthouden, een betere planning en de stapels achterstallig werk verdwijnen eindelijk van het bureau. Voor zover de digitale agenda nog niet wordt gebruikt, zal deze vanaf nu een grote rol in uw leven gaan spelen. Dit zal een grote tijdsbesparing opleveren.
                 </p>
 
                 <p><b>Telefonische Nazorg</b><br>

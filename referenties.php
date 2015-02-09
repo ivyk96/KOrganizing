@@ -45,9 +45,9 @@
             <div class="col-md-12">
                 <br>
                 <p><i>
-                    Cathy heeft mij inzicht gegeven in het ordenen van mail en het structureren van mijn agenda. Ik merkte dat ik veel afspraken ad 
+                    "Cathy heeft mij inzicht gegeven in het ordenen van mail en het structureren van mijn agenda. Ik merkte dat ik veel afspraken ad 
                     hoc plande en dat terugkerende en repeterende werkzaamheden hierdoor in het gedrang kwamen. Door op een andere manier te kijken 
-                    naar het beheren van mail en agendagebruik is mijn werk overzichtelijker geworden.
+                    naar het beheren van mail en agendagebruik is mijn werk overzichtelijker geworden."
                     </i>
                     <br>
                     <br>
@@ -56,11 +56,11 @@
                 <hr>
 
                 <p><i>
-                    Kate Organizing is een dag bij mij langs geweest. Dit was op verzoek van mij omdat ik de controle regelmatig kwijt was, en 
+                    "Kate Organizing is een dag bij mij langs geweest. Dit was op verzoek van mij omdat ik de controle regelmatig kwijt was, en 
                     daardoor problemen had met prioriteiten. De drukte is er nog steeds, maar de storm is gaan liggen, eigenlijk door een paar 
                     eenvoudige tips, en aanpassingen. Zo lang ik deze consequent toepas kan het weliswaar heel druk zijn, maar is het overzicht 
                     er altijd. Gevolg; minder last van de drukte, omdat ik weet wat er nog moet gebeuren. Dit geeft wat meer rust en plezier in mijn 
-                    werk. Ik ben blij dat we destijds Kate Organizing een dag hebben laten komen.
+                    werk. Ik ben blij dat we destijds Kate Organizing een dag hebben laten komen."
                     </i>
                     <br>
                     <br>
@@ -69,9 +69,9 @@
                 <hr>
 
                 <p><i>
-                    Al weer bijna 10(!) jaar geleden heeft Cathy binnen onze onderneming haar vaardigheden op ons overgebracht. De meeste zijn goed 
+                    "Al weer bijna 10(!) jaar geleden heeft Cathy binnen onze onderneming haar vaardigheden op ons overgebracht. De meeste zijn goed 
                     ‘blijven hangen’ en gebruiken we nog steeds! Ordening en prioriteiten zijn de belangrijkste. Een ieder die hier moeite mee heeft 
-                    raad ik zéker een sessie met Cathy aan!
+                    raad ik zéker een sessie met Cathy aan!"
                     </i>
                     <br>
                     <br>
@@ -93,7 +93,7 @@
                 <hr>
 
                 <p><i>
-                    Cathy heeft medewerkers praktisch en snel geholpen om prioriteiten te stellen en opgeruimd aan het werk te gaan.
+                    "Cathy heeft medewerkers praktisch en snel geholpen om prioriteiten te stellen en opgeruimd aan het werk te gaan."
                     </i>
                     <br>
                     <br>
@@ -102,8 +102,8 @@
                 <hr>
 
                 <p><i>
-                    Dankzij de begeleiding van Cathy heb ik geleerd om beter prioriteiten te stellen en mijn werkzaamheden te plannen waardoor 
-                    ik veel doelmatiger dan eerst werk. Dit geeft overzicht in mijn werkzaamheden.
+                    "Dankzij de begeleiding van Cathy heb ik geleerd om beter prioriteiten te stellen en mijn werkzaamheden te plannen waardoor 
+                    ik veel doelmatiger dan eerst werk. Dit geeft overzicht in mijn werkzaamheden."
                     </i>
                     <br>
                     <br>
@@ -114,9 +114,9 @@
                 
 
                 <p><i>
-                    Meer georganiseerd werken dankzij Kate Organizing Kate Organizing heeft mij op een prettige manier geleerd om focus te houden op 
+                    "Meer georganiseerd werken dankzij Kate Organizing Kate Organizing heeft mij op een prettige manier geleerd om focus te houden op 
                     de zaken die spelen en de bijzaken te negeren. Dit uit zich in een beter georganiseerde werkplek en een hogere productiviteit. Ook het 
-                    direct beantwoorden van e-mails was een van mijn valkuilen, dankzij Kate heb ik geleerd dat de meeste berichten best kunnen wachten.
+                    direct beantwoorden van e-mails was een van mijn valkuilen, dankzij Kate heb ik geleerd dat de meeste berichten best kunnen wachten."
                     </i>
                     <br>
                     <br>

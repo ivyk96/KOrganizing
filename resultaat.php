@@ -60,7 +60,7 @@
                     <li>Geen tijdverlies door onnodig zoekwerk</li>
                     <li>Er is weer kastruimte beschikbaar</li>
                     <li>Onverwachte gebeurtenissen leiden niet meer tot achterstand en stress</li>
-                    <li>Overwerk wordt weer een uitzondering</li>
+                    <li>Overwerk wordt vanaf nu een uitzondering</li>
                     <li>Men kan weer “nee” zeggen</li>
                     <li>Prioriteiten stellen is eenvoudiger geworden</li>
                 </ul>
@@ -71,8 +71,8 @@
                 <ul>
                 <br>
                     <li>Heeft men weer meer grip op de werkzaamheden</li>
-                    <li>Zijn collega's onderling beter vervangbaar</li>
-                    <li>Een gaat iedereen 's avonds met een voldaan gevoel naar huis!</li>
+                    <li>Zijn werknemers beter in staat om elkaar te helpen ten tijde van extra drukte</li>
+                    <li>En gaat iedereen 's avonds met een voldaan gevoel naar huis!</li>
                 <ul>
             </div>
         </div>

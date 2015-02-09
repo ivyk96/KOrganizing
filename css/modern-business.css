@@ -83,7 +83,8 @@
 }
 
 .footer-tekst {
-    color: #00A5CA;
+    /*color: #00A5CA;*/
+    color: #000000;
 }
 
 /* Global Styles */

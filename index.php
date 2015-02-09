@@ -56,15 +56,15 @@
                 <p><b>Herkent u zichzelf hierin?</b><br>
                     Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak, maar hoe ze hun werk efficiënt en effectief kunnen organiseren 
                     is ze nooit geleerd. Dat kan tot problemen leiden. Niet dat er direct sprake hoeft te zijn van een chaos. Zelfs mensen die 
-                    ogenschijnlijk alles in orde hebben, kunnen verzanden in een oud en inefficiënt systeem. Ook dat kan tot problemen leiden.
+                    ogenschijnlijk alles op orde hebben, kunnen verzanden in een oud en inefficiënt systeem. Ook dat kan tot problemen leiden.
                 </p>
 
                 <p><b>Herkent u uw organisatie hierin?</b><br>
                     Dan is het tijd om het roer om te gooien en met behulp van buitenaf uw werkzaamheden opnieuw te organiseren, zodat u weer <b>kwaliTIJD</b> voor uzelf krijgt
                 </p>
                 <p><b>De oplossing:</b><br>
-                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u breng ik structuur aan in uw werkzaamheden en op uw werkplek. Ook het 
-                    plannen van de agenda, het indelen van tijd en taken, behoort tot mijn specialiteiten. Deze training, Effectief en Efficiënt werken, is gebaseerd 
+                    Mijn naam is Cathy Hoekstra en ik ben professional organizer. Samen met u breng ik structuur aan in uw werkzaamheden en op uw werkplek. 
+                    Ook het plannen van de agenda en het indelen van tijd en taken behoort tot mijn specialiteiten. Deze training, Effectief en Efficiënt werken, is gebaseerd 
                     op de principes van o.a. Steven Covey en “Getting things done”. De training vindt plaats daar waar het nodig is; op de werkplek zelf. 
                     Deze persoonlijke aanpak heeft bewezen tot grote resultaten te leiden.
                 </p>

@@ -50,9 +50,9 @@
                 </p>
 
                 <ul>
-                    <li>Archieven moeten worden geschoond</li>
-                    <li>Documenten moeten worden gedigitaliseerd</li>
-                    <li>De documenten moeten digitaal goed vindbaar worden opgeslagen.</li>
+                    <li>Archieven worden geschoond.</li>
+                    <li>Documenten worden gedigitaliseerd.</li>
+                    <li>Alle documenten worden vervolgens digitaal goed vindbaar opgeslagen.</li>
                 </ul>
 
                 <br>
@@ -60,7 +60,7 @@
                 <h4>KATE ORGANIZING HELPT UW ORGANISATIE BIJ:</h4>
                 
                 <p><b>Het opschonen van archieven</b><br>
-                    Vaak is het lastig te bepalen welke documenten wel/niet bewaard moeten blijven. Kate Organizing begeleidt de medewerkers in het maken van de juiste keuzes zonder te verzanden in ellenlange discussies.
+                    Vaak is het lastig te bepalen welke documenten wel/niet bewaard moeten blijven. Kate Organizing begeleidt de medewerkers in het maken van de juiste keuzes.
                 </p>
 
                 <p><b>Het digitaliseren van documenten.</b><br>
