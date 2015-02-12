@@ -47,7 +47,7 @@
                 <p>
                     <b>Rust en ruimte</b>
                     <br>
-                    Door de werkzaamheden vanaf nu goed te organiseren ontstaat er rust en ruimte, niet alleen op de werkplek, maar ook in het hoofd. Hierdoor wordt er effectiever en efficiënter gewerkt.
+                    Door de werkzaamheden goed te organiseren ontstaat er rust en ruimte, niet alleen op de werkplek, maar ook in het hoofd. Hierdoor wordt er effectiever en efficiënter gewerkt.
                 </p>
 
                 <br>
@@ -75,6 +75,11 @@
                     <li>En gaat iedereen 's avonds met een voldaan gevoel naar huis!</li>
                 <ul>
             </div>
+            <p>
+                In het najaar 2014 heeft de NBPO het Effectiviteitsonderzoek Zakelijke Markt afgerond. 
+                De resultaten van dit onderzoek zijn 
+                <a href="http://www.nbpo.nl/professional+organizer+zakelijk/effectiviteitsonderzoek" target="blank">hier</a> te lezen.
+            </p>
         </div>
         <!-- /.row -->
 
