@@ -54,9 +54,8 @@
                 </p>
 
                 <p><b>Herkent u zichzelf hierin?</b><br>
-                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak, maar hoe ze hun werk efficiënt en effectief kunnen organiseren 
-                    is ze nooit geleerd. Dat kan tot problemen leiden. Niet dat er direct sprake hoeft te zijn van een chaos. Zelfs mensen die 
-                    ogenschijnlijk alles op orde hebben, kunnen verzanden in een oud en inefficiënt systeem. Ook dat kan tot problemen leiden.
+                    Mensen zijn vaak uitstekend opgeleid voor het uitoefenen van hun vak, maar hoe ze hun werk efficiënt en effectief kunnen organiseren is ze nooit geleerd. 
+                    Dit kan leiden tot chaos maar ook mensen die ogenschijnlijk alles in orde hebben, kunnen verzanden in een oud en inefficiënt systeem. 
                 </p>
 
                 <p><b>Herkent u uw organisatie hierin?</b><br>

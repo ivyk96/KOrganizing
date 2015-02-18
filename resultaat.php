@@ -72,7 +72,7 @@
                 <br>
                     <li>Heeft men weer meer grip op de werkzaamheden</li>
                     <li>Zijn werknemers beter in staat om elkaar te helpen ten tijde van extra drukte</li>
-                    <li>En gaat iedereen 's avonds met een voldaan gevoel naar huis!</li>
+                    <li>Gaat iedereen met een voldaan gevoel naar huis!</li>
                 <ul>
             </div>
             <p>

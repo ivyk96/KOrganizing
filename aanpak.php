@@ -66,11 +66,11 @@
                 </p>
 
                 <p><b>Timemanagement</b><br> 
-                    Hierin speelt de cursist zelf een grote rol door een overzicht van het takenpakket aan te leveren. Vervolgens maken we aan de hand van dit takenoverzicht en de bijbehorende actielijst een structuurontwerp. Een eenvoudiger systeem van onthouden, een betere planning en de stapels achterstallig werk verdwijnen eindelijk van het bureau. Voor zover de digitale agenda nog niet wordt gebruikt, zal deze vanaf nu een grote rol in uw leven gaan spelen. Dit zal een grote tijdsbesparing opleveren.
+                    Hierin speelt de cursist zelf een grote rol door een overzicht van het takenpakket aan te leveren. Vervolgens maken we aan de hand van dit takenoverzicht en de bijbehorende actielijst een structuur ontwerp. Een eenvoudiger systeem van onthouden, een betere planning en de stapels achterstallig werk verdwijnen eindelijk van het bureau. Voor zover de digitale agenda nog niet wordt gebruikt, zal deze vanaf nu een grote rol in uw leven gaan spelen. Dit zal veel tijdsbesparing opleveren.
                 </p>
 
                 <p><b>Telefonische Nazorg</b><br>
-                    Gedragsverandering kost tijd. Na afloop van dit coaching traject op de werkplek zal ik telefonisch contact met u hebben om te kijken of de nieuwe werkwijze bevalt en daar waar nodig nog iets aan te passen.
+                    Gedragsverandering kost tijd. Na afloop van dit coaching traject op de werkplek zal ik telefonisch contact met u opnemen om te kijken of de nieuwe werkwijze bevalt en daar waar nodig aan te passen.
                 </p>
             </div>
         </div>

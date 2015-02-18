@@ -58,7 +58,7 @@
                     <li>Outlook</li>
                 </ul>
                 <p>
-                    In een interactieve sfeer zullen de deelnemers handvaten aangereikt krijgen om een en ander praktisch toe te passen. Een workshop neemt 1 dagdeel in beslag. Aansluitend kunnen de deelnemers gebruik maken van de individuele coaching op de werkplek om het beste
+                    In een interactieve sfeer zullen de deelnemers handvatten aangereikt krijgen om één en ander praktisch toe te passen. Een workshop neemt 1 dagdeel in beslag. Aansluitend kunnen de deelnemers gebruik maken van de individuele coaching op de werkplek om het beste 
                     <a href="resultaat.php" class="oulink">resultaat</a> te bereiken.
                 </p>
             </div>

@@ -44,13 +44,7 @@
             <div class="col-md-12">
                 <br>
                 <p>
-                    Na het voltooien van mijn HBO opleiding heb ik de eerste jaren, naast een korte periode in het onderwijs, 
-                    voornamelijk als instructeur in de fitnessbranche gewerkt. De fascinatie voor bedrijfsorganisaties en structuren ontstond, 
-                    nadat ik een aantal keren werd betrokken bij het opschonen van administraties. 
-                    Vervolgens heb ik enige jaren voor een trainingsbureau gewerkt waardoor ik wist waar mijn ambities lagen. 
-                    Ik volgde een opleiding tot professional organizer, waarna ik mij aansloot bij het NBPO, 
-                    de Nederlandse Beroepsvereniging voor Professional Organizers. 
-                    Vanaf 2000 ben ik werkzaam als trainer en coach onder de naam Kate Organizing.
+                    Na het voltooien van mijn HBO opleiding heb ik de eerste jaren, naast een korte periode in het onderwijs, voornamelijk als instructeur in de fitnessbranche gewerkt. . De fascinatie voor bedrijfsorganisaties en structuren ontstond toen ik een aantal keer werd betrokken bij het opzetten van administraties. Nadat ik enkele jaren voor een trainingsbureau werkzaam was, wist ik waar mijn ambities lagen. Ik volgde een opleiding tot professional organizer, waarna ik mij aansloot bij het NBPO, de Nederlandse Beroepsvereniging voor Professional Organizers. Vanaf 2000 ben ik werkzaam als trainer en coach onder de naam Kate Organizing.
                 </p>
 
                 <p>
