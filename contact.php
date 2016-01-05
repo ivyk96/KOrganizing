@@ -2,11 +2,22 @@
 <html lang="en">
 
 <head>
-    <?php require_once('requires/head.html') ?>
     <title>Kate Organizing - Contact</title>
+    <meta name="description" content="Zoekt u contact? Kate Organizing geeft prioriTIJD aan kwaliTIJD">
+    <?php require_once('requires/head.html') ?>
+    
 </head>
 
 <body>
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TFGTV3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFGTV3');</script>
+<!-- End Google Tag Manager -->
 
     <!-- Navigation -->
     <?php require_once('requires/navbar.html') ?>
@@ -20,7 +31,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo1.png">
+                <img class="img-responsive" src="img/logo.jpg">
             </div>
         </div>
         <!-- Features Section -->
