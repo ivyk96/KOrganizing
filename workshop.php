@@ -7,6 +7,15 @@
 </head>
 
 <body>
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TFGTV3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFGTV3');</script>
+<!-- End Google Tag Manager -->
 
     <!-- Navigation -->
     <?php require_once('requires/navbar.html') ?>
@@ -20,7 +29,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo1.png">
+                <img class="img-responsive" src="img/logo.jpg">
             
             </div>
         </div>
@@ -58,7 +67,7 @@
                     <li>Outlook</li>
                 </ul>
                 <p>
-                    In een interactieve sfeer zullen de deelnemers handvaten aangereikt krijgen om een en ander praktisch toe te passen. Een workshop neemt 1 dagdeel in beslag. Aansluitend kunnen de deelnemers gebruik maken van de individuele coaching op de werkplek om het beste
+                    In een interactieve sfeer zullen de deelnemers handvatten aangereikt krijgen om één en ander praktisch toe te passen. Een workshop neemt 1 dagdeel in beslag. Aansluitend kunnen de deelnemers gebruik maken van de individuele coaching op de werkplek om het beste 
                     <a href="resultaat.php" class="oulink">resultaat</a> te bereiken.
                 </p>
             </div>

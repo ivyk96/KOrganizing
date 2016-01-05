@@ -2,11 +2,22 @@
 <html lang="en">
 
 <head>
-    <?php require_once('requires/head.html') ?>
     <title>Kate Organizing - Contact</title>
+    <meta name="description" content="Zoekt u contact? Kate Organizing geeft prioriTIJD aan kwaliTIJD">
+    <?php require_once('requires/head.html') ?>
+    
 </head>
 
 <body>
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TFGTV3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFGTV3');</script>
+<!-- End Google Tag Manager -->
 
     <!-- Navigation -->
     <?php require_once('requires/navbar.html') ?>
@@ -20,7 +31,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo1.png">
+                <img class="img-responsive" src="img/logo.jpg">
             </div>
         </div>
         <!-- Features Section -->
@@ -44,13 +55,7 @@
             <div class="col-md-12">
                 <br>
                 <p>
-                    Na het voltooien van mijn HBO opleiding heb ik de eerste jaren, naast een korte periode in het onderwijs, 
-                    voornamelijk als instructeur in de fitnessbranche gewerkt. De fascinatie voor bedrijfsorganisaties en structuren ontstond, 
-                    nadat ik een aantal keren werd betrokken bij het opschonen van administraties. 
-                    Vervolgens heb ik enige jaren voor een trainingsbureau gewerkt waardoor ik wist waar mijn ambities lagen. 
-                    Ik volgde een opleiding tot professional organizer, waarna ik mij aansloot bij het NBPO, 
-                    de Nederlandse Beroepsvereniging voor Professional Organizers. 
-                    Vanaf 2000 ben ik werkzaam als trainer en coach onder de naam Kate Organizing.
+                    Na het voltooien van mijn HBO opleiding heb ik de eerste jaren, naast een korte periode in het onderwijs, voornamelijk als instructeur in de fitnessbranche gewerkt. Mijn interesse in bedrijfsorganisaties en structuren ontstond toen ik een aantal keer werd betrokken bij het opzetten van administraties. Nadat ik enkele jaren voor een trainingsbureau werkzaam was, wist ik waar mijn ambities lagen. Ik volgde een opleiding tot professional organizer, waarna ik mij aansloot bij het NBPO, de Nederlandse Beroepsvereniging voor Professional Organizers. Vanaf 2000 ben ik werkzaam als trainer en coach onder de naam Kate Organizing.
                 </p>
 
                 <p>
@@ -77,7 +82,7 @@
 
                 <br>
 
-                <p class="minicontact"><b>*Binnen een straal van 50 kilometer om Papendrecht. Bevindt uw bedrijf zich buiten deze locatie, schroom niet om contact op te nemen. Door te werken met moderne communicatiemiddelen is er altijd een weg te vinden om een vrijblijvend gesprek te voeren</b></p>
+                <p class="minicontact"><b>*Binnen een straal van 30 kilometer om Dordrecht. Bevindt uw bedrijf zich buiten deze locatie, schroom niet om contact op te nemen. Door te werken met moderne communicatiemiddelen is er altijd een weg te vinden om een vrijblijvend gesprek te voeren</b></p>
             </div>
         </div>
         <!-- /.row -->

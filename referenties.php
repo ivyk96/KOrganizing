@@ -7,6 +7,15 @@
 </head>
 
 <body>
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TFGTV3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFGTV3');</script>
+<!-- End Google Tag Manager -->
 
     <!-- Navigation -->
     <?php require_once('requires/navbar.html') ?>
@@ -20,7 +29,7 @@
             <div class="col-md-1"><p class="page-header-whitespace">-</p></div>
             
             <div class="col-md-8">
-                <img class="img-responsive" src="img/logo1.png">
+                <img class="img-responsive" src="img/logo.jpg">
             
             </div>
         </div>
@@ -45,6 +54,18 @@
             <div class="col-md-12">
                 <br>
                 <p><i>
+                    "Sinds ik de training van Cathy Hoekstra heb gevolgd merk ik vooral dat mijn planning steeds beter gaat. Het opvallendste is dat 
+                    ik veel efficiënter ben gaan werken omdat ik eerst afmaak waar ik mee bezig ben. Dit lukt nu omdat ik weet dat ik mijn volgende 
+                    klussen goed in mijn agenda heb staan en er dus niet door wordt afgeleid. De werkwijze van Cathy Hoekstra heb ik als prettig ervaren, 
+                    ze kruipt in je werkproces en weet dit op een hele praktische manier te structureren."
+                    </i>
+                    <br>
+                    <br>
+                    Martin de Jong, Engineering & Technical Support,  <b><i>Metalflex BV</i></b>
+                </p>
+                <hr>
+
+                <p><i>
                     "Cathy heeft mij inzicht gegeven in het ordenen van mail en het structureren van mijn agenda. Ik merkte dat ik veel afspraken ad 
                     hoc plande en dat terugkerende en repeterende werkzaamheden hierdoor in het gedrang kwamen. Door op een andere manier te kijken 
                     naar het beheren van mail en agendagebruik is mijn werk overzichtelijker geworden."
@@ -52,6 +73,49 @@
                     <br>
                     <br>
                     Sarah Hainey, Teamleider <b><i>Cavent</i></b>
+                </p>
+                <hr>
+
+                <p><i>
+                    "In mijn functie combineer ik dagelijkse operatie met projecten, dit vraagt een gestructureerde werkwijze. In één ochtend heeft Cathy 
+                    mij op aangename wijze geholpen om mijn agenda te beheren, om overzicht te creëren in mijn to-do lijst en handige tips gegeven voor Outlook. 
+                    Ik werk nu efficiënter en georganiseerd!”.
+                    </i>
+                    <br>
+                    <br>
+                    Stefan Vuurens, Operations Department <b><i>Anthony Veder Chartering B.V.</i></b>
+                </p>
+                <hr>
+
+                <p><i>
+                    "Ik heb Cathy van Kate Organizing om hulp gevraagd omdat ik moeite had met overzicht bewaren en prioriteiten te stellen in mijn drukke agenda. 
+                    Door haar openheid en humor voelde ik me meteen op mijn gemak. Ik heb weer een beetje orde in mijn chaos, hou mijn agenda overzichtelijk en heb 
+                    met een paar simpele trucs geleerd om enorm veel tijd te besparen."
+                    </i>
+                    <br>
+                    <br>
+                    Mila Woudenberg, Event manager <b><i>Co Solo Productions B.V.</i></b>
+                </p>
+                <hr>
+
+                <p><i>
+                    "Cathy heeft mij één-op-één geholpen. De achterstanden zijn (nog) niet verdwenen, maar er is, dank zij Cathy, veel meer structuur. 
+                    Outlook als basis, specifieke onderwerpen per dag, databases gelijk ingericht en geplande tijd voor het ‘kleine’ werk. Geleerd dat je rust kan organiseren, 
+                    waardoor je overzicht en inzicht over je werkzaamheden behoudt. Ook simpele tips die heel doeltreffende zijn: is het wel voor jou, kan iemand anders 
+                    dit ook doen, enz. Met de hulp van Cathy verloopt het plannen van het werk niet alleen efficiënter maar is het ook leuker geworden."
+                    </i>
+                    <br>
+                    <br>
+                    Arjan Korteland, Senior Adviseur <b><i>HRM Gemeente Papendrecht</i></b>
+                </p>
+                <hr>
+
+                <p><i>
+                    "Het is heel goed bevallen om met Kate Organizing de boel goed op de rails te zetten om daarna zelf weer verder te gaan met rust en overzicht."
+                    </i>
+                    <br>
+                    <br>
+                    Gert van den Hof, <b><i>Heatmaster</i></b>
                 </p>
                 <hr>
 
@@ -65,6 +129,30 @@
                     <br>
                     <br>
                     Herman Nanninga, Sales Manager, <b><i>Viking Life-Saving Equipment B.V.</i></b>
+                </p>
+                <hr>
+                
+
+                <p><i>
+                    “Cathy heeft mij uitstekend geholpen via twee training sessies bij mij op kantoor om de digitale agenda te gaan hanteren en om de papieren 
+                    agenda ter zijde te leggen. Met haar hulp kan ik nu ook beter mijn mailberichten ordenen op prioriteit. Dat bespaart mij een hoop tijd die 
+                    ik beter aan mijn administraties kan besteden. Cathy heeft mij er ook op gewezen om met een digitale taken planner te werken. 
+                    Daardoor hoef ik het niet meer in mijn hoofd vast te houden en lig ik in de nacht niet wakker om alle zaken in mijn hoofd te ordenen 
+                    op wat ik nog moet gaan doen. Ik ben blij met deze training van Cathy. Een echte aanrader.”
+                    </i>
+                    <br>
+                    <br>
+                    Cees-Jan Vrolijk, <b><i>CJV Administratie</i></b>
+                </p>
+                <hr>
+
+
+                <p><i>
+                    “Cathy hanteert een plezierige insteek bij de coaching gesprekken. De ‘nu-op-dit-moment’ methode geeft resultaat. Een aanrader voor een nieuwe start.”
+                </i>
+                <br>
+                <br>
+                    Hans van Pelt, <b><i>EGM Architecten</i></b>
                 </p>
                 <hr>
 
@@ -111,8 +199,6 @@
                 </p>
                 <hr>
 
-                
-
                 <p><i>
                     "Meer georganiseerd werken dankzij Kate Organizing Kate Organizing heeft mij op een prettige manier geleerd om focus te houden op 
                     de zaken die spelen en de bijzaken te negeren. Dit uit zich in een beter georganiseerde werkplek en een hogere productiviteit. Ook het 
@@ -122,6 +208,19 @@
                     <br>
                     Gert van der Lee,  Eigenaar <b><i>4Port Services</i></b>
                 </p>
+                <hr>
+
+                <p><i>
+                    “Ik heb bij Cathy Hoekstra een training time management gehad tijdens mijn periode dat ik bij Frisol BV werkte en een drukke baan had 
+                    met heel veel taken. Ik vond het moeilijk om daar een goede ordening in aan te brengen. Ik heb heel veel gehad aan de training van Cathy. 
+                    Heb geleerd hoe ik zaken en bijzaken van elkaar kan scheiden, hoe ik een goede ordening kan aanbrengen in mijn administratie en nog 
+                    veel meer tips en adviezen die heel nuttig zijn gebleken in mijn dagelijkse werk. Ik kan het iedereen aanbevelen.”
+                    </i>
+                    <br>
+                    <br>
+                    Paula Ijben
+                </p>
+
             </div>
         </div>
         <!-- /.row -->
